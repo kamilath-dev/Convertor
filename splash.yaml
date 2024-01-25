@@ -1,0 +1,7 @@
+image_path: assets/images/splash.png
+color: "42a5f5"
+android_gravity: "center"
+ios_content_mode: "scaleAspectFill"
+ios_background_color: "42a5f5"
+android_background_color: "42a5f5"
+show_navigation: false
